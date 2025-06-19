@@ -1,0 +1,113 @@
+Generate 4 MCQs from the following text:
+Python Programming
+OOP
+Instruction:
+• Make all the variables Private. Use setters and getters for accessing variables
+within the class.
+• Use Display function to display all results if necessary.
+• Use decorator for every function used. It should display the name of function,
+arguments passed and return value in a proper format.
+Task1:
+Write a program to create a class representing a Circle. Include methods to calculate its
+area and perimeter.
+Task2:
+Write a program to create a person class. Include attributes like name, country and date of
+birth. Implement a method to determine the person's age.
+Task3:
+Write a Python program to create a calculator class. Include methods for basic arithmetic
+operations.
+Task4:
+Write a Python program to create a class representing a shopping cart. Include methods for
+adding and removing items, and calculating the total price.
+Format:
+Question:
+A)
+B)
+C)
+D)
+Answer:
+A)
+B)
+C)
+Answer:
+A)
+B)
+Answer:
+A)
+Answer:
+Question:
+A)
+B)
+Answer:
+Answer:
+Question:
+A)
+B)
+Answer:
+Answer:
+Question:
+A)
+B)
+Answer:
+Question:
+A)
+B)
+Answer:
+Question:
+A)
+Answer:
+Question:
+A)
+B)
+Answer:
+Question:
+A)
+B)
+Answer:
+Question:
+A)
+Question:
+A)
+Answer:
+Answer:
+Question:
+A)
+A)
+B)
+Answer:
+Question:
+A)
+Question:
+A)
+B)
+Answer:
+Question:
+A)
+Answer:
+Question:
+A)
+Question:
+A)
+A)
+Question:
+A)
+Answer:
+Question:
+Question:
+A)
+Question:
+A)
+Question:
+A)
+Question:
+B)
+Answer:
+Question:
+A)
+B)
+Answer:
+Question:
+B)
+Answer:
+Question:
+B)
